@@ -11,7 +11,7 @@
 Open a terminal and run:
 
 ```bash
-$ pip install streamlit
+$ pip install streamviz
 ```
 
 ## Demonstration App
