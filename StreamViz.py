@@ -1,6 +1,6 @@
 """Custom Plotly visualizations for Streamlit"""
 
-__version__ = "0.1"
+__version__ = "1.0"
 
 import plotly.graph_objects as go
 import streamlit as st
