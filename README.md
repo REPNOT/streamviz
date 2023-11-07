@@ -7,18 +7,18 @@
     Custom Plotly visualizations for Streamlit
 </p>
 
-# Demonstration App
+## Demonstration App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stream-gauge.streamlit.app/)
 
-### Dependencies
+## Dependencies
 
 | Library   | Language | Link                                                               |
 | --------- | -------- | ------------------------------------------------------------------ |
 | Streamlit | Python   | https://github.com/streamlit/streamlit                             |
 | Plotly    | Python   | https://github.com/plotly/plotly.py                                |
 
-### Function Parameters
+## Function Parameters
 
 | Name                             | Data Type        | Short Desc                           | Options                       |
 | -------------------------------- | ---------------- | ------------------------------------ | ----------------------------- |
