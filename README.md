@@ -7,6 +7,11 @@
     Custom Plotly visualizations for Streamlit
 </p>
 
+## Installation
+Open a terminal and run:
+
+`$ pip install streamlit`
+
 ## Demonstration App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stream-gauge.streamlit.app/)
