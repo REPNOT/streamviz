@@ -3,14 +3,13 @@
 
 # streamViz
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stream-gauge.streamlit.app/)
-
 <p>
     Custom Plotly visualizations for Streamlit
-    <br><br>
-    <a href="https://stream-gauge.streamlit.app" target="_blank">Demonstration App</a>
 </p>
 
+# Demonstration App
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stream-gauge.streamlit.app/)
 
 ### Dependencies
 
