@@ -10,7 +10,9 @@
 ## Installation
 Open a terminal and run:
 
-`$ pip install streamlit`
+```bash
+$ pip install streamlit
+```
 
 ## Demonstration App
 
