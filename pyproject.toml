@@ -3,10 +3,17 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "StreamViz"
+name = "streamviz"
 authors = [{name = "Derek Evans", email = "derek.evans@deinfoservice.com"}]
 readme = "README.md"
 dynamic = ["version", "description"]
+dependencies = [
+    "streamlit",
+    "plotly"
+]
 
 [project.urls]
-Home = "https://www.techbyderek.com/"
+Home = "https://www.techbyderek.com"
+Repository = "https://github.com/REPNOT/streamviz"
+Demo = "https://stream-gauge.streamlit.app/"
+
