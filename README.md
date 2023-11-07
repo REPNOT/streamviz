@@ -3,6 +3,8 @@
 
 # streamviz
 
+[![PyPI version](https://badge.fury.io/py/streamviz.svg)](https://badge.fury.io/py/streamviz)
+
 <p>
     Custom Plotly visualizations for Streamlit
 </p>
