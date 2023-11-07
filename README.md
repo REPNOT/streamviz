@@ -7,7 +7,7 @@
 
 <p>
     Custom Plotly visualizations for Streamlit
-    <br>
+    <br><br>
     <a href="https://stream-gauge.streamlit.app" target="_blank">Demonstration App</a>
 </p>
 
